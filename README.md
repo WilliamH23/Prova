@@ -4,7 +4,7 @@ Este projeto contém 5 exercícios de C#, abordando lógica de programação e m
 
 ## Estrutura do Projeto
 
-1. **Exercício 1**: Soma de números de 1 a 13.
+1. **Exercício 1**: Soma de números de 1 a 5.
 2. **Exercício 2**: Verifica se um número está na sequência de Fibonacci.
 3. **Exercício 3**: Calcula menor, maior faturamento e dias com faturamento acima da média (requere `dados.json`).
 4. **Exercício 4**: Calcula percentual de faturamento por estado.
